@@ -1,1 +1,1 @@
-### my fully running arch linux configuration
+> my arch linux configuration, no longer maintained
